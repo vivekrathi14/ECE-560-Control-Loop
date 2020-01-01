@@ -1,0 +1,69 @@
+Dependencies for Project 'HBLED_Test', Target 'CMSIS DAP': (DO NOT MODIFY !)
+F (.\src\timers.c)(0x5DC5E77D)(-c --cpu Cortex-M0+ -D__EVAL -g -O3 -Otime --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_CMSIS_DAP-ID:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include-ID:\Vi_Installed_Software\keil5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DMKL25Z128xxx4-o .\objects\timers.o --omf_browse .\objects\timers.crf --depend .\objects\timers.d)
+I (src\timers.h)(0x5DC5E77D)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include\MKL25Z4.h)(0x585C24CA)
+I (D:\Vi_Installed_Software\keil5\ARM\ARMCC\include\stdint.h)(0x588BA66C)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm0plus.h)(0x5D263976)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D263976)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D263976)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D263976)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5DC5E77D)
+I (src\HBLED.h)(0x5DCB8811)
+I (src\GPIO_defs.h)(0x5DC5E77D)
+I (src\debug.h)(0x5DC5E77D)
+F (.\src\main.c)(0x5DC9B181)(-c --cpu Cortex-M0+ -D__EVAL -g -O3 -Otime --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_CMSIS_DAP-ID:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include-ID:\Vi_Installed_Software\keil5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DMKL25Z128xxx4-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include\MKL25Z4.H)(0x585C24CA)
+I (D:\Vi_Installed_Software\keil5\ARM\ARMCC\include\stdint.h)(0x588BA66C)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm0plus.h)(0x5D263976)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D263976)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D263976)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D263976)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5DC5E77D)
+I (D:\Vi_Installed_Software\keil5\ARM\ARMCC\include\stdio.h)(0x588BA66C)
+I (src\gpio_defs.h)(0x5DC5E77D)
+I (src\debug.h)(0x5DC5E77D)
+I (src\timers.h)(0x5DC5E77D)
+I (src\delay.h)(0x5DC5E77D)
+I (src\LEDS.h)(0x5DC5E77D)
+I (src\HBLED.h)(0x5DCB8811)
+I (src\FX.h)(0x5DC5E77D)
+F (.\src\delay.c)(0x5DC5E77D)(-c --cpu Cortex-M0+ -D__EVAL -g -O3 -Otime --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_CMSIS_DAP-ID:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include-ID:\Vi_Installed_Software\keil5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DMKL25Z128xxx4-o .\objects\delay.o --omf_browse .\objects\delay.crf --depend .\objects\delay.d)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include\MKL25Z4.H)(0x585C24CA)
+I (D:\Vi_Installed_Software\keil5\ARM\ARMCC\include\stdint.h)(0x588BA66C)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm0plus.h)(0x5D263976)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D263976)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D263976)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D263976)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5DC5E77D)
+F (.\src\LEDs.c)(0x5DC5E77D)(-c --cpu Cortex-M0+ -D__EVAL -g -O3 -Otime --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_CMSIS_DAP-ID:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include-ID:\Vi_Installed_Software\keil5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DMKL25Z128xxx4-o .\objects\leds.o --omf_browse .\objects\leds.crf --depend .\objects\leds.d)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include\MKL25Z4.H)(0x585C24CA)
+I (D:\Vi_Installed_Software\keil5\ARM\ARMCC\include\stdint.h)(0x588BA66C)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm0plus.h)(0x5D263976)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D263976)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D263976)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D263976)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5DC5E77D)
+I (src\LEDs.h)(0x5DC5E77D)
+I (src\gpio_defs.h)(0x5DC5E77D)
+F (.\src\debug.c)(0x5DC5E77D)(-c --cpu Cortex-M0+ -D__EVAL -g -O3 -Otime --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_CMSIS_DAP-ID:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include-ID:\Vi_Installed_Software\keil5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DMKL25Z128xxx4-o .\objects\debug.o --omf_browse .\objects\debug.crf --depend .\objects\debug.d)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include\MKL25Z4.H)(0x585C24CA)
+I (D:\Vi_Installed_Software\keil5\ARM\ARMCC\include\stdint.h)(0x588BA66C)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm0plus.h)(0x5D263976)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D263976)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D263976)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D263976)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5DC5E77D)
+I (src\debug.h)(0x5DC5E77D)
+F (.\src\FX.c)(0x5DC5E77D)(-c --cpu Cortex-M0+ -D__EVAL -g -O3 -Otime --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_CMSIS_DAP-ID:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include-ID:\Vi_Installed_Software\keil5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DMKL25Z128xxx4-o .\objects\fx.o --omf_browse .\objects\fx.crf --depend .\objects\fx.d)
+I (src\FX.h)(0x5DC5E77D)
+I (D:\Vi_Installed_Software\keil5\ARM\ARMCC\include\stdint.h)(0x588BA66C)
+F (RTE\Device\MKL25Z128xxx4\startup_MKL25Z4.s)(0x5DC5E77D)(--cpu Cortex-M0+ --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_CMSIS_DAP-ID:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include-ID:\Vi_Installed_Software\keil5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include--pd "__UVISION_VERSION SETA 524" --pd "_RTE_ SETA 1" --pd "MKL25Z128xxx4 SETA 1"--list .\listings\startup_mkl25z4.lst --xref -o .\objects\startup_mkl25z4.o --depend .\objects\startup_mkl25z4.d)
+F (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.c)(0x5DC5E77D)(-c --cpu Cortex-M0+ -D__EVAL -g -O3 -Otime --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_CMSIS_DAP-ID:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include-ID:\Vi_Installed_Software\keil5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DMKL25Z128xxx4-o .\objects\system_mkl25z4.o --omf_browse .\objects\system_mkl25z4.crf --depend .\objects\system_mkl25z4.d)
+I (D:\Vi_Installed_Software\keil5\ARM\ARMCC\include\stdint.h)(0x588BA66C)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.13.0\Device\Include\MKL25Z4.h)(0x585C24CA)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm0plus.h)(0x5D263976)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D263976)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D263976)
+I (D:\Vi_Installed_Software\keil5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D263976)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5DC5E77D)
+F (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5DC5E77D)()
