@@ -1,4 +1,4 @@
-# ECE-560-Control-Loop
+# ECE560-Control-Loop
 
 Project/Lab - Evaluating Mixed Signal Closed-Loop Embedded Systems
 
